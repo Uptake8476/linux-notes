@@ -1,12 +1,4 @@
-Skip to main content
-Fedora Terminal Command Guide
-10,635 tokens
 
-Model
-ThinkingThoughts
-Expand to view model thoughts
-
-chevron_right
 **Status Check:**
 You aren't "outside" looking in. You are **in**.
 `mk@fedora:~$` is the shell prompt.
@@ -152,19 +144,9 @@ Create a new project on GitHub directly from your terminal.
 *   **`rm -rf FolderName`**: Deletes files **only on your computer**.
 *   **`gh repo delete`**: Deletes files **on the internet**.
 27.2s
-User
-<pre>h repo list Uptake8476
 
-Showing 4 of 4 repositories in @Uptake8476
 
-<font color="#807F7D"><u style="text-decoration-style:solid">NAME               </u></font>  <font color="#807F7D"><u style="text-decoration-style:solid">DESCRIPTION                                                                                      </u></font>  <font color="#807F7D"><u style="text-decoration-style:solid">INFO        </u></font>  <font color="#807F7D"><u style="text-decoration-style:solid">UPDATED             </u></font>
-<b>Uptake8476/ww      </b>                                                                                                     <font color="#6C6C6C">public      </font>  <font color="#6C6C6C">about 10 minutes ago</font>
-<b>Uptake8476/mathcask</b>  A quick starter kit to easily write and share your self-rendering mathematical notes and snippets  <font color="#6C6C6C">public, fork</font>  <font color="#6C6C6C">about 8 months ago</font>
-<b>Uptake8476/sing-box</b>  The universal proxy platform                                                                       <font color="#6C6C6C">public, fork</font>  <font color="#6C6C6C">about 8 months ago</font>
-<b>Uptake8476/jff     </b>  just for fun                                                                                       <font color="#6C6C6C">public, fork</font>  <font color="#6C6C6C">about 9 months ago</font>
-<font color="#2EC27E"><b>mk@fedora</b></font>:<font color="#2EC27E"><b>~</b></font>$ 
 
-</pre>
 i want to just delete all , then make a new one, i want this new one to make so many md file in it  , so i just paste whatever commands and things  i learned about linux  to paste in those md files  and have them in that repo , 
 Model
 ThinkingThoughts
